@@ -25,6 +25,6 @@
 <img src="https://i.imgur.com/Tinn9hC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Enabled Internet Information Seervices, in which I enabled other sub categories like "World Web Services" etc.
+Enabled Internet Information Services, in which I enabled other sub categories like "World Web Services" etc.
 </p>
 <br />
