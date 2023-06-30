@@ -28,3 +28,7 @@
 Enabled Internet Information Services, in which I enabled other sub categories like "World Web Services" etc.
 </p>
 <br />
+<h2>Additional Photo</h2>
+<p>
+<img src="https://i.imgur.com/fYIQuEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
